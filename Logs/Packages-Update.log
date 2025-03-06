@@ -1,0 +1,25 @@
+
+=== Thu Mar  6 20:15:47 2025
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.modules.ai@1.0.0
+  com.unity.modules.androidjni@1.0.0
+  com.unity.modules.cloth@1.0.0
+  com.unity.modules.screencapture@1.0.0
+  com.unity.modules.terrain@1.0.0
+  com.unity.modules.terrainphysics@1.0.0
+  com.unity.modules.uielements@1.0.0
+  com.unity.modules.umbra@1.0.0
+  com.unity.modules.unityanalytics@1.0.0
+  com.unity.modules.vehicles@1.0.0
+  com.unity.modules.wind@1.0.0
+  com.unity.modules.accessibility@1.0.0
+  com.unity.multiplayer.center@1.0.0
+The following packages were updated:
+  com.unity.inputsystem from version 1.12.0 to 1.13.1
+  com.unity.learn.iet-framework from version 4.0.3 to 4.0.4
+  com.unity.render-pipelines.universal from version 17.0.3 to 17.0.4
+  com.unity.test-framework from version 1.4.5 to 1.4.6
