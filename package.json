@@ -1,0 +1,20 @@
+{
+    "name": "ww2-game",
+    "version": "1.0.0",
+    "description": "Gra strategiczna WW2",
+    "scripts": {
+        "start": "tsc && node dist/index.js",
+        "build": "tsc",
+        "watch": "tsc -w",
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^29.5.12",
+        "@types/node": "^22.13.9",
+        "jest": "^29.7.0",
+        "ts-jest": "^29.1.2",
+        "typescript": "^5.8.2"
+    }
+}
